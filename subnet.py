@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SUBNET - terminal BBS (no IPs shown) with register/login accounts (file-based)
+
 import asyncio
 import argparse
 import datetime
