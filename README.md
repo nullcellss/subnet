@@ -1,3 +1,4 @@
+![LOGO](sbnet.png)
 SUBNET – Real-Time Encrypted Terminal BBS
 
 SUBNET is a modern reinterpretation of the classic 1980s BBS, offering a real-time, encrypted terminal-based connection between users. It allows multiple clients to connect via TCP, chat instantly, post to forums, use ASCII avatars, send private messages, and optionally secure connections with TLS encryption.
